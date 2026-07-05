@@ -2,6 +2,10 @@
 
 An AI-powered Resume Screening System built using **Python** and **Streamlit** that automatically ranks candidate resumes based on a Job Description (JD). The application calculates ATS scores, generates interview questions, provides hiring recommendations, and exports reports in PDF and Excel formats.
 
+## 🌐 Live Demo
+
+https://ai-resume-screening-ngqorg79rksztvtm62sd9k.streamlit.app/
+
 ---
 
 ## 🚀 Features
@@ -133,7 +137,7 @@ The application provides:
 
 **Divya Pamnani**
 
-GitHub: https://github.com/divya-pamnani
+GitHub: [divya-pamnani](https://github.com/divya-pamnani)
 
 ---
 
