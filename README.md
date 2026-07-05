@@ -84,14 +84,32 @@ streamlit run app.py
 
 ---
 
+
 ## 📸 Screenshots
 
-Add screenshots of:
-- Home Page
-- Resume Ranking
-- ATS Score
-- Candidate Report
-- Charts
+### 🏠 Home Page
+
+![Home Page](home.png)
+
+### 📤 Uploaded Resumes
+
+![Uploaded Page](image.png)
+
+### 👤 Candidate Details
+
+![Candidate Details](image-1.png)
+
+### 📈 Score Comparison
+
+![Score Comparison](image-2.png)
+
+### 📊 Screened Results
+
+![Screened Results](image-3.png)
+
+### 📥 Download Reports
+
+![Download Reports](image-4.png)
 
 ---
 
